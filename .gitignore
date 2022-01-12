@@ -86,7 +86,7 @@ Thumbs.db
 /*
 
 # Except for these
-!/.gitignore
+/.gitignore
 !/Assets
 !/Packages
 !/ProjectSettings
@@ -231,6 +231,7 @@ crashlytics-build.properties
 /Shooter/[Oo]bj/
 /Shooter/[Tt]emp/
 /Shooter/[Uu]nityGenerated/
+/Shooter/Library/
 /Library/
 Library/
 =======
