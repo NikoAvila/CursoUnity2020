@@ -234,5 +234,6 @@ crashlytics-build.properties
 /Shooter/Library/
 /Library/
 Library/
+*.gitignore
 =======
 >>>>>>> parent of a8f7cb2e (Update .gitignore)
